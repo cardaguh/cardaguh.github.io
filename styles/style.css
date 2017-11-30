@@ -1,0 +1,33 @@
+h1 {
+  font-family: 'Annie Use Your Telescope', sans-serif;
+  font-size: 55px;
+  line-height: 70px;
+  width: 600px;
+  margin: 0 auto;
+}
+h1 strong,a {
+  font-weight: bold;
+  color: #4DA400;
+}
+
+h1 strong { font-size: 60px; }
+
+h2 {
+  font-family: 'Annie Use Your Telescope', sans-serif;
+  font-size: 35px;
+  color: gray;
+  line-height: 45px;
+  width: 600px;
+  margin: 0 auto;
+}
+
+img {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+}
+
+#images {
+  text-align: center;
+}
